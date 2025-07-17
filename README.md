@@ -7,9 +7,6 @@
 ## 📦 Deliverables
 
 1️⃣ **Real Working UI**
-- 🔗 [Live Frontend Deployment](#)
-- 🔗 [Backend API (Render) Link](#)
-
 ✅ Fully functional, test-ready interface with real voice call capabilities.
 
 2️⃣ **1-Page Design Document**
@@ -29,32 +26,6 @@
 
 ---
 
-## ⚡ Summary — What We’re Looking For
-
-We built this with speed, clarity, and functionality at the core.
-
-- ✅ **RAPID MVP development** within 48–72 hours.
-- ✅ Efficient use of **AI coding assistants** — Copilot, Claude, Cursor, V0.dev, etc.
-- ✅ Seamless full-stack integration (frontend, backend, AI, and voice).
-- ✅ Clean architecture — simple, scalable, and modular.
-- ✅ Emphasis on **working solutions**, not mockups.
-
-> This system moves from **Job Description → Real Interviews → AI-powered Decisions**, all in a single flow.
-
----
-
-## 🎯 Core Objective
-
-Build a **full-stack AI application** for automated interview screening:
-
-- Upload Job Description (JD).
-- Generate custom AI interview questions.
-- Upload candidate list via CSV.
-- Launch and manage interview campaigns.
-- Conduct **real voice calls** using TTS (Text-to-Speech).
-- Record & transcribe responses via STT (Speech-to-Text).
-- Analyze answers and **auto-score candidates with AI**.
-- Provide a detailed dashboard to view performance and selection status.
 
 ---
 
@@ -105,27 +76,6 @@ Build a **full-stack AI application** for automated interview screening:
 
 > (Optional: Include a system diagram or flowchart.)
 
----
-
-## 📦 Deployment Links
-
-- 🔗 **Frontend**: [https://your-frontend.vercel.app](#)
-- 🔗 **Backend API**: [https://your-backend.onrender.com](#)
-
----
-
-## 🎥 Loom Walkthrough
-
-> Walkthrough video link: [https://loom.com/share/your-demo-video](#)
-
----
-
-## ⏰ Timeline
-
-- Built within **48–72 hours**.
-- ✅ MVP is **fully functional** and **test-ready**.
-
----
 
 ## ✅ Evaluation Goals Addressed
 
